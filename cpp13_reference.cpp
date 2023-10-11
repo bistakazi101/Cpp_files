@@ -12,7 +12,7 @@ int main()
     cout << "After swapping: a=" << a << " b=" << b << endl;
     getch();
 
-    return 0;
+    return 0;       
 }
 
 void function1(int *p, int *q)
